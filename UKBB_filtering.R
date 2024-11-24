@@ -1,7 +1,7 @@
 # file name: UKBB_filtering
 #
 # year: 2023
-# month: 10
+# month: 10 
 # day: 09
 #
 library(susieR)
