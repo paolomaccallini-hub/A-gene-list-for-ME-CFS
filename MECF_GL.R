@@ -2,7 +2,7 @@
 #
 # Rome 25th August 2024
 #
-path<-getwd() # current directory
+path<-getwd() # current directory 
 #
 #-------------------------------------------------------------------------------
 # Packages and files
